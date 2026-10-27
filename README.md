@@ -14,7 +14,7 @@
 - 🔭 目前专注于 **AI Agent 与多模态应用** 的后端研发与落地 (基于 Spring Boot / LangChain4j)。
 - 🌱 拥有 **Java & Vue** 全栈开发背景，正在全面深入 **Python** 生态 (FastAPI / LangChain)。
 - 💬 别名 **coderJ**，立志成为一个生活工作美满幸福的程序员~
-- 👯 欢迎交流：全栈开发 / AI 智能体落地。
+- 👯 欢迎交流：全栈开发 / AI 智能体开发。
 
 ### 🚀 核心项目 (Featured Projects)
 
