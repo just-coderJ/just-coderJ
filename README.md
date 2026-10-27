@@ -1,8 +1,8 @@
 # Hi there 👋, I'm coderworld (码外生活)
 
 <p align="left">
-  <a href="https://github.com/8ecomeDreamer?tab=followers">
-    <img src="https://img.shields.io/github/followers/8ecomeDreamer?label=Followers&style=social" alt="GitHub Badge">
+  <a href="https://github.com/just-coderJ?tab=followers">
+    <img src="https://img.shields.io/github/followers/just-coderJ?label=Followers&style=social" alt="GitHub Badge">
   </a>
   <a href="https://juejin.cn/user/2331413035352680">
     <img src="https://img.shields.io/badge/Juejin-007FFF?style=flat-square&logo=juejin&logoColor=white" alt="Juejin">
@@ -18,9 +18,9 @@
 
 ### 🚀 核心项目 (Featured Projects)
 
-- 🧵 **[textile-multi-modal-agent](https://github.com/8ecomeDreamer/textile-multi-modal-agent)**：面向纺织外贸行业的 AI 智能体后端，融合 RAG 检索、MCP 联网工具与多模态识别。
-- 🎨 **[textile-multi-modal-agent-ui](https://github.com/8ecomeDreamer/textile-multi-modal-agent-ui)**：配套的一站式智能体前端工作台，覆盖报价、合同审查、质检全流程。
-- 🐍 **[python-learning-journal](https://github.com/8ecomeDreamer/python-learning-journal)**：我的 Python 修炼手册，记录进阶笔记与自动化实战。
+- 🧵 **[textile-multi-modal-agent](https://github.com/just-coderJ/textile-multi-modal-agent)**：面向纺织外贸行业的 AI 智能体后端，融合 RAG 检索、MCP 联网工具与多模态识别。
+- 🎨 **[textile-multi-modal-agent-ui](https://github.com/just-coderJ/textile-multi-modal-agent-ui)**：配套的一站式智能体前端工作台，覆盖报价、合同审查、质检全流程。
+- 🐍 **[python-learning-journal](https://github.com/just-coderJ/python-learning-journal)**：我的 Python 修炼手册，记录进阶笔记与自动化实战。
 
 ### 🛠️ 技术栈 (Tech Stack)
 
@@ -41,5 +41,5 @@
 ### 📊 GitHub 数据统计 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8ecomeDreamer&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=just-coderJ&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
 </p>
