@@ -38,8 +38,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 GitHub 数据统计 (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=just-coderJ&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-</p>
