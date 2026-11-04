@@ -34,12 +34,9 @@
 <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue3" />
 <img src="https://img.shields.io/badge/Vue_2-41B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue2" />
 <img src="https://img.shields.io/badge/UniApp-2B9939?style=flat-square&logoColor=white" alt="UniApp" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&logo=element&logoColor=white" alt="Element Plus" />
 
 **AI & Tools:**
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
