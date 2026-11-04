@@ -32,8 +32,6 @@
 
 **Frontend:**
 <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue3" />
-<img src="https://img.shields.io/badge/Vue_2-41B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue2" />
-<img src="https://img.shields.io/badge/UniApp-2B9939?style=flat-square&logoColor=white" alt="UniApp" />
 
 **AI & Tools:**
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
