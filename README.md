@@ -1,9 +1,7 @@
 # Hi there 👋, I'm coderworld (码外生活)
 
 <p align="left">
-  <a href="https://github.com/just-coderJ?tab=followers">
-    <img src="https://shields.io.cn/github/followers/just-coderJ?label=Followers&style=social" alt="GitHub Badge">
-  </a>
+  ** [![GitHub 粉丝](https://img.shields.io/github/followers/just-coderJ?label=Followers&style=social)](https://github.com/just-coderJ?tab=followers)
   <a href="https://juejin.cn/user/2331413035352680">
     <img src="https://img.shields.io/badge/Juejin-007FFF?style=flat-square&logo=juejin&logoColor=white" alt="Juejin">
   </a>
