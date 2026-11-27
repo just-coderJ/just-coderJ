@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/just-coderJ?tab=followers">
-    <img src="https://img.shields.io.cn/github/followers/just-coderJ?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://shields.io.cn/github/followers/just-coderJ?label=Followers&style=social" alt="GitHub Badge">
   </a>
   <a href="https://juejin.cn/user/2331413035352680">
     <img src="https://img.shields.io/badge/Juejin-007FFF?style=flat-square&logo=juejin&logoColor=white" alt="Juejin">
